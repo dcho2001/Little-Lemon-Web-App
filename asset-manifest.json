@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/little-lemon-web-app/static/css/main.30345259.css",
+    "main.js": "/little-lemon-web-app/static/js/main.6b8b155a.js",
+    "static/media/Mario and Adrian b.jpg": "/little-lemon-web-app/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/little-lemon-web-app/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/greek salad.jpg": "/little-lemon-web-app/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/little-lemon-web-app/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/binding-dark-1920x1080.png": "/little-lemon-web-app/static/media/binding-dark-1920x1080.161fd3653b0a39d73c2d.png",
+    "static/media/restaurant.jpg": "/little-lemon-web-app/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/assault-1920x1080.png": "/little-lemon-web-app/static/media/assault-1920x1080.f182ba7b61dbee9f8e07.png",
+    "static/media/onba37nvnvhtceuldxsl.jpg": "/little-lemon-web-app/static/media/onba37nvnvhtceuldxsl.98846a99e5de93f82296.jpg",
+    "static/media/Logo.svg": "/little-lemon-web-app/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/reviewer.jpg": "/little-lemon-web-app/static/media/reviewer.c36bc66ca6a1ef9e0fd2.jpg",
+    "index.html": "/little-lemon-web-app/index.html",
+    "main.30345259.css.map": "/little-lemon-web-app/static/css/main.30345259.css.map",
+    "main.6b8b155a.js.map": "/little-lemon-web-app/static/js/main.6b8b155a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30345259.css",
+    "static/js/main.6b8b155a.js"
+  ]
+}
